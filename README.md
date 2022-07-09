@@ -1,3 +1,3 @@
 # Miniproject
 
-complaint handling management system 
+Complaint Handling Management System 
